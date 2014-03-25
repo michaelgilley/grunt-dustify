@@ -1,0 +1,24 @@
+{
+  "name": "grunt-dustify",
+  "version": "0.1.0",
+  "description": "Pre-compile dustjs templates for production.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/michaelgilley/grunt-dustify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelgilley/grunt-dustify/issues"
+  },
+  "homepage": "https://github.com/michaelgilley/grunt-dustify",
+  "devDependencies": {
+    "bluebird": "^1.1.1",
+    "dustjs-linkedin": "^2.3.4",
+    "lodash": "^2.4.1"
+  }
+}
